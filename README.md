@@ -17,3 +17,5 @@ b) Lähempänä kuin 50 km:n etäisyydellä Venäjän Federaation ja Suomen väl
 
 c) Lähempänä kuin 50 km:n etäisyydellä Norjan ja Suomen välises)
 tä valtakunnanrajasta suurin sallittu lähetysteho on 25 W (PEP/CW)
+
+[Traficom radiotaajuusmääräys M4](https://www.traficom.fi/sites/default/files/media/regulation/Radiotaajuusm%C3%A4%C3%A4r%C3%A4ys%204AD2023M.pdf#page=74)
