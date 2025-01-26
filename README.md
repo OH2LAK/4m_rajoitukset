@@ -6,6 +6,8 @@ Karttapohjana OpenStreetMap, moottorina [OpenLayers](https://openlayers.org/) ja
 
 Paketin aineisto on suoraan QGIS2Web-pluginin tuottamaa johon on tehty muutamia korjauksia ja lisäyksiä muotoiluihin ja ulkoasuun.
 
+Karttapalvelu on saatavilla osoitteessa https://oh2lak.radio/4m_rajoitukset/
+
 ![image](https://github.com/user-attachments/assets/4582a30b-2a02-44b0-be14-448827d418c9)
 
 ## 70.000-70.300MHz
